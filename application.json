@@ -1,0 +1,48 @@
+{
+    "_id": "658ece1c00a56f33df4d8428",
+    "name": "uieditor-3736",
+    "slug": "uieditor-3736",
+    "organizationId": "Org",
+    "isPublic": false,
+    "isMenu": false,
+    "isShowPlatformTag": true,
+    "createdAt": "2023-12-29T13:48:12.097Z",
+    "updatedAt": "2023-12-29T13:48:12.097Z",
+    "deleted": false,
+    "pages": [
+        {
+            "_id": "home",
+            "isDefault": true
+        }
+    ],
+    "policies": [
+        {
+            "permission": "makePublic:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "read:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "publish:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:applications",
+            "groups": [],
+            "users": []
+        }
+    ],
+    "gitApplicationMetadata": {
+        "browserSupportedRemoteUrl": "https://github.com/YuliiaGagina/ubos_frontend",
+        "defaultApplicationId": "uieditor-3736",
+        "defaultBranchName": "main",
+        "isRepoPrivate": true,
+        "remoteUrl": "git@github.com:YuliiaGagina/ubos_frontend.git",
+        "repoName": "ubos_frontend"
+    }
+}
